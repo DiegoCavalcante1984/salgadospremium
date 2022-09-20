@@ -100,3 +100,37 @@
   font-size:100px;
   padding-top:30px;
 }
+
+/*button */
+
+.container_btn{
+  padding-top:30px;
+  display: flex;
+  justify-content: center;
+  padding-bottom:20px;
+}
+.btn{
+  position: absolute;
+  z-index:1000;
+  position: fixed;
+  right:10px;
+  top:75px;
+  background-color:#40bd4f;
+  color: #FFF;
+  cursor: pointer;
+  border:none;
+  border-radius:50%;
+  padding:5px;
+  font-size:20px;
+  width:70px;
+  height:70px;
+
+  
+  
+}
+
+.btn i{
+  font-size:1.5rem;
+  color: #FFF;
+  font-size:50px;
+}
