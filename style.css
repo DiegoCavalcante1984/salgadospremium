@@ -43,7 +43,7 @@
   width:98%;
   margin:0 auto;
   padding:10px;
-  background-color: #ffee00;
+  background-color:#F7D8A2;
   border-bottom:4px solid #781C05;
   
 }
@@ -68,9 +68,13 @@
 .image{
   width:100%;
   
+ 
+  
   
 }
 .image img{
+  
+  border-top-left-radius:10px;
   padding-top:20px;
   width:100%;
   
